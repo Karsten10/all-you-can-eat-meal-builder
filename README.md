@@ -88,7 +88,7 @@ MIT License. Free to use and modify.
 ---
 
 ## Author
-Built with appetite by [Your Name Here].
+Built with appetite by Karsten Stolk.
 
 ---
 
