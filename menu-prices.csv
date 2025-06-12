@@ -1,0 +1,64 @@
+id,name,expected price
+1,Brood,"1,5"
+2,Brood met alioli,2
+3,Brood met alioli en tapenade,"2,5"
+4,Vitello tonnato,"4,5"
+5,Watermeloensalade met feta en witte balsamico glaze,3
+6,Krokante taco's met tonijn en pittige mayonaise,"3,5"
+7,Crostini met tomatensalsa kappertjes en gemarineerde steak tartaar met Savora-mayonaise,4
+8,Ham met meloen,"3,5"
+9,Bruschetta met tomatensalsa,3
+10,Tomaat-mozzarellaspiesjes,"2,5"
+11,Carpaccio met pestodressing,"4,5"
+12,Pastasalade met gegrilde kip,"3,5"
+13,Gerookte zalm met dille op toast,"4,5"
+14,Vijgen met serranoham kruidenkaas rucola en balsamico glaze,"4,5"
+15,Torentje van avocado tomatensalsa en krokante pancetta,"4,5"
+16,Gekarameliseerde geitenkaascrème met bacon crumble granaatappelpitjes en gerookte amandelen,"4,5"
+17,Kastanjechampignons met pesto truffelmayonaise en Parmezaanse kaas,"3,5"
+18,Taco pulled beef,"3,5"
+19,Kipreepjes omwikkeld met bacon,"3,5"
+20,Gehaktballetjes in tomatensaus,3
+21,Tajine met kipgyros en fetacrème,4
+22,Pikante biefstukpuntjes,4
+23,Gefrituurde kipstukjes met honing-mosterdsaus,"4,5"
+24,Spaans gekruide hamburgertjes,"3,5"
+25,Kipspiesjes met honing-mosterdsaus,"3,5"
+26,Varkenshaas omwikkeld met spek in champignonsaus,5
+27,Krokante kipkluifjes,"3,5"
+28,Flammkuchen met brie spek rode ui en rucola,"4,5"
+29,Ribfingers met chimichurri,"4,5"
+30,Chorizo met cranberrysaus en zoetzure rode ui,4
+31,Chorizokroketjes met piccalilly-mayonaise,"3,5"
+32,Cubaans frietje met stoofvlees chilimayonaise en gekonfijte pepertjes,4
+33,Spareribs,5
+34,Garnalenkroketjes met dillemayonaise,"4,5"
+35,Quesadilla met tonijn en piri-piri mayonaise,4
+36,Gamba's in knoflookolie,5
+37,Gefrituurde inktvisringen met alioli,"4,5"
+38,Gegratineerde mosselen met Gruyère kaas en kruidenboter,"4,5"
+39,Gefrituurde garnalen op een bedje van frisse avocadodip,"4,5"
+40,Gamba's pil pil,5
+41,Zalmfilet met citroen-roomsaus,5
+42,Zeebaars met beurre noisette kappertjes en zongedroogde tomaat,5
+43,Venusschelpjes met sobrasadasaus,"4,5"
+44,Uienringen met chilisaus,"2,5"
+45,Champignons in knoflookboter,"3,5"
+46,Gebakken aardappeltjes met pittige saus,"2,5"
+47,Zoete-aardappelfriet met kerriemayonaise,"2,5"
+48,Gefrituurde bloemkoolroosjes met pikante mayonaise,"3,5"
+49,Empanadas gevuld met champignons,"3,5"
+50,Bladerdeeg gevuld met geitenkaas en honing met komkommer en veldsla,"3,5"
+51,Maïsribs met zeezout,3
+52,Nacho's uit de oven,"3,5"
+53,Pulled paddo met zoetzure rode ui op cassave toast,4
+54,Chili cheese nuggets met chilimayonaise,"3,5"
+55,Kaaskroketjes,"3,5"
+56,Slofje met room en rood-fruitcoulis,3
+57,Vanille-ijs met espresso slagroom en karamel,3
+58,Tiramisú,"3,5"
+59,Vanille-ijs met chocoladesaus,3
+60,Vanillepudding met gekaramelliseerd suikerlaagje,3
+61,Chocoladebrownie met karamel en pecannoten,4
+62,Fris citroen-meringuetaartje,"3,5"
+63,Cheesecake,4
